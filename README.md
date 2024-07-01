@@ -1,5 +1,4 @@
-<p><img align="center" src="![image](https://github.com/YanFlandre/YanFlandre/assets/107220401/4b77b2b0-28c0-4ea8-a50b-8f38d4ce45e9)
-" /></p>
+<p><img align="center" src="https://i.ppy.sh/dccc664852086e27293a297a8826e8177d22e90c/68747470733a2f2f696d6775722d617263686976652e7070792e73682f37457031736e592e706e67" /></p>
 
 <h1 align="center">YanFlandre</h1>
 <h3 align="center">Backend Developer</h3>
