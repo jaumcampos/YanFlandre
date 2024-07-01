@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jp_felippe@hotmail.com**
 
-- ⚡ Learning now **Java, Spring, SQL**
+- ⚡ Learning now **Java, Spring, SQL;**
 
 
 <p align="left">
