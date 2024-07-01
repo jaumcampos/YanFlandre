@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanflandre&label=Profile%20views&color=0e75b6&style=flat" alt="yanflandre" /> </p>
 
-- 🌱 **Hi, my name is João, i'm from Brazil and i have a degree in environmental engineering, but in the past few years i decided to be a developer! I have a big passion for technology since i was a kid and i just love learning new things and solving problems!**
+- 🌱 **Hi, my name is João, I'm from Brazil and I have a degree in environmental engineering, but in the past few years I decided to be a developer! I have a big passion for technology since I was a kid and I just love learning new things and solving problems!**
 
 - 📫 How to reach me **jp_felippe@hotmail.com**
 
