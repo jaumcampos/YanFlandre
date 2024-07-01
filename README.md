@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanflandre&label=Profile%20views&color=0e75b6&style=flat" alt="yanflandre" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring**
+- 🌱 About Me **I have a graduation in environmental engineer, but in the past few years i decided to be a developer! I have a big passion for technology since i was a kid and i just love learning new things and solving problems!**
 
 - 📫 How to reach me **jp_felippe@hotmail.com**
 
-- ⚡ Fun fact **I have a graduation in environmental engineer, but in the past few years i decided to be a developer! I have a big passion for technology since i was a kid and i just love learning new things and solving problems!**
+- ⚡ Learning now **Java, Spring, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
