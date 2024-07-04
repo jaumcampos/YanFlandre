@@ -1,4 +1,4 @@
-<p><img align="center" src="https://i.ppy.sh/dccc664852086e27293a297a8826e8177d22e90c/68747470733a2f2f696d6775722d617263686976652e7070792e73682f37457031736e592e706e67" /></p>
+
 
 <h1 align="center">YanFlandre</h1>
 <h3 align="center">Backend Developer</h3>
