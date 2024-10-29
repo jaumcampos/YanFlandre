@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jp_felippe@hotmail.com**
 
-- ⚡ Learning now **Java, Spring, SQL;**
+- ⚡ Learning now **Typescript, NextJS**
 
 
 <p align="left">
